@@ -1,0 +1,6 @@
+# A. def print_file_content(file) that can print content of a csv file to the console
+
+# B. def write_list_to_file(output_file, lst) that can take a list of tuple and write each element to a new line in file
+
+# C. def read_csv(input_file) that take a csv file and read each row into a list
+
