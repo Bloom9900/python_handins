@@ -1,0 +1,20 @@
+stud_name,gender,course_name,teacher,ects,classroom,grade,img_url
+Test1,male,English,Mr. Davis,30,Classroom-A3,4,https://picsum.photos/200
+Test1,male,English,Mr. Davis,30,Classroom-A3,4,https://picsum.photos/200
+Test1,male,Economics,Ms. Hinton,20,Classroom-A4,10,https://picsum.photos/200
+Test1,male,Music,Mrs. Barnes,10,Classroom-A2,4,https://picsum.photos/200
+Test1,female,Music,Mrs. Barnes,10,Classroom-A2,4,https://picsum.photos/200
+Test2,male,Economics,Ms. Hinton,20,Classroom-A4,10,https://picsum.photos/200
+Test2,male,Mathemathics,Mr. Peterson,30,Classroom-A1,7,https://picsum.photos/200
+Test1,male,English,Mr. Davis,30,Classroom-A3,4,https://picsum.photos/200
+Test1,male,Mathemathics,Mr. Peterson,30,Classroom-A1,7,https://picsum.photos/200
+Test2,female,Music,Mrs. Barnes,10,Classroom-A2,4,https://picsum.photos/200
+Test2,female,English,Mr. Davis,30,Classroom-A3,4,https://picsum.photos/200
+Test1,female,Music,Mrs. Barnes,10,Classroom-A2,4,https://picsum.photos/200
+Test1,female,Economics,Ms. Hinton,20,Classroom-A4,10,https://picsum.photos/200
+Test2,female,Music,Mrs. Barnes,10,Classroom-A2,4,https://picsum.photos/200
+Test2,female,Mathemathics,Mr. Peterson,30,Classroom-A1,7,https://picsum.photos/200
+Test2,female,Economics,Ms. Hinton,20,Classroom-A4,10,https://picsum.photos/200
+Test2,female,Mathemathics,Mr. Peterson,30,Classroom-A1,7,https://picsum.photos/200
+Test2,female,English,Mr. Davis,30,Classroom-A3,4,https://picsum.photos/200
+Test2,male,Economics,Ms. Hinton,20,Classroom-A4,10,https://picsum.photos/200
